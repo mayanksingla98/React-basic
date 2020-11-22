@@ -1,0 +1,48 @@
+.Heading{
+    color: rgb(57, 209, 37);
+    /* border: solid 4px rgb(22, 84, 218); */
+    font-size: 30px;
+    text-align: center;
+}
+
+.menu{
+    margin: 5px;
+    padding: 3px;
+    /* border: solid 2px rgba(102, 86, 86, 0.342); */
+    background-color: rgb(166, 200, 206);
+    /* display: inline-block; */
+}
+
+.btn{
+    /* border: rgb(182, 114, 114) solid 2px; */
+    padding: 3px;
+    margin: 2px;
+    font-weight: bold;
+    color: black;
+}
+.btn-active{
+    border-bottom: rgb(187, 104, 27) solid 4px;
+    color: rgb(187, 104, 27);
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn:hover{
+    /* border: rgb(181, 21, 202) solid 2px; */
+    background-color: rgb(24, 144, 224);
+    color: black;
+}
+
+.form{
+    border: rgb(117, 23, 206) solid 4px;
+    background-color: rgb(144, 109, 177);
+    display: inline-block;
+    padding: 5px;
+}
+.in{
+    margin: 10px;
+}
+.dForm{
+    display: inline-block;
+    margin: 15px;
+    padding: 10px;
+}
